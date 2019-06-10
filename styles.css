@@ -1,12 +1,21 @@
+/*White  */
+body{
+  background-color: white;
+  text-align: center;
+  color: black;
+  font-family: sans-serif;
+  margin: 10% 0px 0px; 0px;
+}
+
 img {
   max-height: 50%;
   max-width: 50%;
-  width: auto;
-  height: auto;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
+}
+
+h1{
+  font-size: 80px;
+}
+
+#timer{
+  visibility: hidden;
 }
