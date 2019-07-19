@@ -2,7 +2,7 @@ console.log("LOADED")
 
 var timer = document.getElementById("timer")
 
-var end = new Date("July 19 2019 19:30:00").getTime();
+var end = new Date("July 19 2019 19:15:00").getTime();
 // end = (new Date).getTime() + 3000;
 
 setInterval(function(){
